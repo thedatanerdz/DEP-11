@@ -9,5 +9,6 @@ AWS Redshift serverless clustor
 5. Set admin password
 6. Connect database
 7. Open Redshift query editor v2 to run sql queries
-8. Start with q1 to create schema
-9. Use q2 to insert values into table. 
+8. Start with q1.sql to create schema
+9. Use q2.sql to insert values into table.
+10. View table by running q3.sql.
